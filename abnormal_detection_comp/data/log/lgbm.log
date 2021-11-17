@@ -1,0 +1,414 @@
+2021-11-16 11:02:22,189 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60517
+2021-11-16 11:03:11,419 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60274
+2021-11-16 11:03:28,774 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60598
+2021-11-16 11:03:57,063 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60711
+2021-11-16 11:04:18,789 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60341
+2021-11-16 11:05:43,803 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60502
+2021-11-16 11:06:27,360 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60490
+2021-11-16 11:08:26,894 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60433
+2021-11-16 11:08:46,097 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60529
+2021-11-16 11:10:01,853 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60319
+2021-11-16 11:11:18,768 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60602
+2021-11-16 11:11:51,243 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60250
+2021-11-16 11:14:21,455 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60024
+2021-11-16 11:15:07,550 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.59715
+2021-11-16 11:15:26,664 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.59907
+2021-11-16 11:15:55,080 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.59708
+2021-11-16 11:16:16,550 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.59700
+2021-11-16 11:21:20,731 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60547
+2021-11-16 11:21:40,132 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60331
+2021-11-16 11:22:15,914 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60065
+2021-11-16 11:27:09,797 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60441
+2021-11-16 11:28:28,257 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60708
+2021-11-16 11:29:10,288 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60371
+2021-11-16 11:29:46,852 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60446
+2021-11-16 11:30:15,115 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60639
+2021-11-16 11:30:51,839 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60669
+2021-11-16 11:31:14,881 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60350
+2021-11-16 11:31:34,333 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60478
+2021-11-16 11:32:17,739 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60624
+2021-11-16 11:32:47,994 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.60462
+2021-11-16 12:41:19,241 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72246
+2021-11-16 12:41:30,465 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72530
+2021-11-16 12:41:38,570 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72549
+2021-11-16 12:41:47,049 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72388
+2021-11-16 12:42:05,638 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72549
+2021-11-16 12:42:15,684 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72497
+2021-11-16 12:42:41,729 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72527
+2021-11-16 12:42:57,560 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72437
+2021-11-16 12:43:05,608 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72239
+2021-11-16 12:43:12,932 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72520
+2021-11-16 12:43:21,070 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72201
+2021-11-16 13:55:04,933 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72213
+2021-11-16 13:55:18,062 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72264
+2021-11-16 13:55:28,530 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72284
+2021-11-16 13:55:41,497 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72507
+2021-11-16 13:56:16,602 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72359
+2021-11-16 13:56:28,852 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72276
+2021-11-16 13:56:45,197 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71992
+2021-11-16 13:57:00,089 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72394
+2021-11-16 13:57:14,410 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72390
+2021-11-16 13:57:27,607 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72277
+2021-11-16 13:57:38,169 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71998
+2021-11-16 13:57:49,276 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71995
+2021-11-16 13:58:12,209 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71921
+2021-11-16 13:58:27,808 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72186
+2021-11-16 13:58:52,340 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72401
+2021-11-16 14:00:59,318 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72379
+2021-11-16 14:01:21,600 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72150
+2021-11-16 14:01:44,599 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72410
+2021-11-16 14:02:02,903 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71915
+2021-11-16 14:02:37,205 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72374
+2021-11-16 14:14:03,257 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72396
+2021-11-16 14:14:13,590 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72349
+2021-11-16 14:14:37,347 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72522
+2021-11-16 14:14:50,213 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72465
+2021-11-16 14:15:31,987 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72279
+2021-11-16 14:15:48,181 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72477
+2021-11-16 14:16:05,477 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72549
+2021-11-16 14:16:17,008 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72466
+2021-11-16 14:16:27,064 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72457
+2021-11-16 14:17:12,113 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72506
+2021-11-16 14:17:32,428 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71964
+2021-11-16 14:17:52,257 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71970
+2021-11-16 14:18:05,168 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72015
+2021-11-16 14:18:21,476 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72384
+2021-11-16 14:18:37,437 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72056
+2021-11-16 14:20:24,164 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72423
+2021-11-16 14:20:37,037 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72375
+2021-11-16 14:21:00,978 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72619
+2021-11-16 14:21:15,920 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72452
+2021-11-16 14:21:33,664 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72267
+2021-11-16 16:50:56,063 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72533
+2021-11-16 16:52:35,104 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72460
+2021-11-16 16:52:57,395 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72550
+2021-11-16 16:53:23,409 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72075
+2021-11-16 16:53:35,993 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72555
+2021-11-16 16:54:43,511 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72078
+2021-11-16 16:57:08,759 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72523
+2021-11-16 16:57:21,440 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72446
+2021-11-16 16:57:33,788 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72569
+2021-11-16 16:57:43,822 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72288
+2021-11-16 16:57:55,507 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72408
+2021-11-16 16:58:04,319 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72021
+2021-11-16 16:58:32,571 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72585
+2021-11-16 16:58:48,191 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72486
+2021-11-16 16:59:22,713 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72020
+2021-11-16 16:59:35,107 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72500
+2021-11-16 16:59:45,835 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72004
+2021-11-16 16:59:59,883 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71981
+2021-11-16 17:00:12,577 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72443
+2021-11-16 17:00:23,919 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72355
+2021-11-16 17:00:36,066 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.71854
+2021-11-16 17:00:46,294 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72488
+2021-11-16 17:00:57,773 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72407
+2021-11-16 17:01:13,291 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72364
+2021-11-16 17:01:27,010 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - auc_score is 0.72469
+2021-11-16 17:03:58,435 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.74125
+2021-11-16 17:04:09,956 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73455
+2021-11-16 17:04:20,618 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73955
+2021-11-16 17:04:39,424 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73126
+2021-11-16 17:04:50,444 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73948
+2021-11-16 17:05:08,070 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73483
+2021-11-16 17:05:23,156 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73500
+2021-11-16 17:05:38,884 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.72841
+2021-11-16 17:07:42,081 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73499
+2021-11-16 17:09:27,455 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73148
+2021-11-16 17:10:05,841 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73530
+2021-11-16 17:14:02,605 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.72471
+2021-11-16 17:14:27,116 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.73102
+2021-11-16 17:14:56,023 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.72406
+2021-11-16 17:25:28,932 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.80034
+2021-11-16 17:25:42,590 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.80231
+2021-11-16 17:26:48,164 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.80596
+2021-11-16 17:27:03,826 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.80214
+2021-11-16 17:27:40,128 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - training auc_score is 0.80071
+2021-11-16 17:29:23,145 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80085
+2021-11-16 17:29:58,075 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80037
+2021-11-16 17:33:18,393 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80391
+2021-11-16 17:34:25,858 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80055
+2021-11-16 17:35:00,612 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80125
+2021-11-16 17:35:40,763 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.79969
+2021-11-16 17:36:01,351 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.80019
+2021-11-16 17:36:21,364 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.79974
+2021-11-16 17:36:46,552 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - valid auc_score is 0.79911
+2021-11-16 17:39:02,944 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79931
+2021-11-16 17:39:03,172 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79930
+2021-11-16 17:39:26,737 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79924
+2021-11-16 17:39:26,955 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79922
+2021-11-16 17:39:53,497 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79978
+2021-11-16 17:39:53,718 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79977
+2021-11-16 17:40:41,364 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80117
+2021-11-16 17:40:41,583 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80117
+2021-11-16 17:41:23,390 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80261
+2021-11-16 17:41:23,604 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80261
+2021-11-16 17:41:48,536 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80174
+2021-11-16 17:41:48,751 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80173
+2021-11-16 17:42:39,265 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80234
+2021-11-16 17:42:39,480 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80234
+2021-11-16 17:43:31,108 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80130
+2021-11-16 17:43:31,332 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80130
+2021-11-16 17:44:00,852 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79990
+2021-11-16 17:44:01,077 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79989
+2021-11-16 17:44:41,358 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80059
+2021-11-16 17:44:41,579 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80059
+2021-11-16 17:45:04,761 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79895
+2021-11-16 17:45:04,982 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79894
+2021-11-16 17:45:28,399 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79881
+2021-11-16 17:45:28,616 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79880
+2021-11-16 17:45:52,060 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79870
+2021-11-16 17:45:52,282 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79869
+2021-11-16 17:46:16,619 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79970
+2021-11-16 17:46:16,842 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79969
+2021-11-16 17:46:37,942 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79887
+2021-11-16 17:46:38,160 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79886
+2021-11-16 17:47:05,272 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80046
+2021-11-16 17:47:05,493 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80045
+2021-11-16 17:47:31,778 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79983
+2021-11-16 17:47:32,011 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79983
+2021-11-16 17:48:15,799 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80172
+2021-11-16 17:48:16,018 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80171
+2021-11-16 17:48:39,328 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79926
+2021-11-16 17:48:39,548 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79925
+2021-11-16 17:49:04,001 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80067
+2021-11-16 17:49:04,221 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80066
+2021-11-16 18:49:31,077 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85558
+2021-11-16 18:49:31,082 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85472
+2021-11-16 18:49:31,327 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:31,332 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:31,582 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:31,585 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:32,232 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 1.00000
+2021-11-16 18:49:32,237 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 1.00000
+2021-11-16 18:49:32,486 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:32,490 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:32,731 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:32,735 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:33,069 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85508
+2021-11-16 18:49:33,073 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85326
+2021-11-16 18:49:33,429 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 1.00000
+2021-11-16 18:49:33,433 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 1.00000
+2021-11-16 18:49:33,672 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:33,676 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:33,911 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:33,914 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:34,197 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:34,201 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:34,483 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:34,487 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:34,784 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:34,788 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:35,075 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:35,078 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:35,370 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:35,374 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:35,663 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:35,667 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:35,955 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:35,959 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:36,254 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:36,258 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:36,553 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:36,557 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:49:36,845 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:49:36,849 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:44,067 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:44,071 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:44,298 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:44,302 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:44,537 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:44,541 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:44,929 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85428
+2021-11-16 18:53:44,933 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85286
+2021-11-16 18:53:45,160 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:45,164 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:45,534 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85861
+2021-11-16 18:53:45,537 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85710
+2021-11-16 18:53:45,766 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:45,770 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:45,999 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:46,003 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:46,229 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:46,233 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:46,525 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85242
+2021-11-16 18:53:46,529 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.84003
+2021-11-16 18:53:46,805 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:46,809 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:47,090 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:47,094 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:47,371 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:47,374 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:47,650 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:47,654 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:47,932 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:47,936 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:48,216 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:48,220 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:48,499 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:48,502 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:49,032 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86878
+2021-11-16 18:53:49,038 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.86845
+2021-11-16 18:53:49,322 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:49,327 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:53:49,609 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:53:49,614 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:54,423 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:54,427 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:54,838 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:54,842 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:55,250 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85549
+2021-11-16 18:59:55,254 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85074
+2021-11-16 18:59:55,631 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:55,635 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:56,010 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:56,014 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:56,855 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85799
+2021-11-16 18:59:56,860 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.84167
+2021-11-16 18:59:57,464 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85826
+2021-11-16 18:59:57,469 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85675
+2021-11-16 18:59:57,982 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86079
+2021-11-16 18:59:57,987 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85889
+2021-11-16 18:59:58,371 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:58,374 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:58,758 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:58,762 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:59,165 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:59,169 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 18:59:59,588 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 18:59:59,592 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:00,010 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:00,014 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:00,448 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:00,452 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:00,848 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:00,852 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:01,298 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:01,302 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:01,733 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:01,737 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:02,131 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:02,135 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:02,573 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:02,577 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:00:03,001 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:00:03,005 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:45,307 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86025
+2021-11-16 19:02:45,312 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85927
+2021-11-16 19:02:45,688 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:45,692 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:46,043 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:46,047 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:46,478 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:46,482 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:46,851 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:46,855 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:47,205 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:47,208 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:47,553 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:47,557 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:47,906 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:47,910 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:48,286 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:48,290 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:48,806 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86089
+2021-11-16 19:02:48,810 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85912
+2021-11-16 19:02:49,229 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:49,233 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:49,654 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:49,658 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:50,054 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:50,058 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:50,604 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85745
+2021-11-16 19:02:50,609 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.84523
+2021-11-16 19:02:51,047 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:51,050 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:51,462 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:51,466 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:51,872 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:51,876 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:52,305 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:52,309 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:52,739 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:52,742 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:02:53,178 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:02:53,182 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:15,885 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:15,891 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:16,752 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86036
+2021-11-16 19:06:16,759 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85834
+2021-11-16 19:06:17,420 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:17,426 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:18,075 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:18,081 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:18,818 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86075
+2021-11-16 19:06:18,824 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85655
+2021-11-16 19:06:19,474 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:19,479 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:20,313 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.85824
+2021-11-16 19:06:20,320 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.85657
+2021-11-16 19:06:21,011 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.83747
+2021-11-16 19:06:21,018 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.82213
+2021-11-16 19:06:21,616 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:21,622 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:22,392 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.86320
+2021-11-16 19:06:22,398 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.86278
+2021-11-16 19:06:23,086 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:23,092 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:23,763 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:23,769 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:24,690 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.87288
+2021-11-16 19:06:24,698 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.87258
+2021-11-16 19:06:25,390 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:25,396 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:26,097 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:26,103 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:26,800 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:26,805 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:27,470 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:27,476 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:28,164 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:28,170 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:28,874 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:28,880 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:06:29,546 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.50000
+2021-11-16 19:06:29,552 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.49996
+2021-11-16 19:17:37,978 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79983
+2021-11-16 19:17:38,203 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79983
+2021-11-16 19:18:10,108 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80007
+2021-11-16 19:18:10,329 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80007
+2021-11-16 19:18:50,351 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79949
+2021-11-16 19:18:50,576 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79948
+2021-11-16 19:19:18,595 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79893
+2021-11-16 19:19:18,809 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79892
+2021-11-16 19:19:56,450 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80164
+2021-11-16 19:19:56,665 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80164
+2021-11-16 19:20:18,714 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79940
+2021-11-16 19:20:18,942 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79938
+2021-11-16 19:21:10,706 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80025
+2021-11-16 19:21:10,919 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80025
+2021-11-16 19:21:33,556 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79973
+2021-11-16 19:21:33,776 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79972
+2021-11-16 19:23:46,051 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80073
+2021-11-16 19:23:46,286 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80072
+2021-11-16 19:24:49,731 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80149
+2021-11-16 19:24:49,945 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80149
+2021-11-16 19:25:24,468 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79853
+2021-11-16 19:25:24,691 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79853
+2021-11-16 19:25:58,914 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79850
+2021-11-16 19:25:59,129 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79849
+2021-11-16 19:26:36,175 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79842
+2021-11-16 19:26:36,400 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79841
+2021-11-16 19:27:12,911 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79868
+2021-11-16 19:27:13,129 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79868
+2021-11-16 19:27:44,706 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79874
+2021-11-16 19:27:44,933 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79873
+2021-11-16 19:28:23,991 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79956
+2021-11-16 19:28:24,219 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79955
+2021-11-16 19:28:57,270 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79905
+2021-11-16 19:28:57,491 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79905
+2021-11-16 19:30:35,776 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.80306
+2021-11-16 19:30:35,995 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.80306
+2021-11-16 19:31:11,349 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79840
+2021-11-16 19:31:11,572 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79839
+2021-11-16 19:31:49,287 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - mean fold valid auc_score is 0.79902
+2021-11-16 19:31:49,513 - D:\zcd\PycharmProjects\ccf_loan/data/log/lgbm.log - DEBUG - full auc_score is 0.79902

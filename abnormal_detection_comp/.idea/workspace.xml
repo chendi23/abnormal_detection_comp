@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a2d097-8762-463d-b967-fd53520e539e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ccf_loan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/global_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/lgbm.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/train/public0/2021_11_16_19_12_02.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/train/public1/2021_11_16_19_12_06.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/train/public2/2021_11_16_19_12_11.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/valid/public0/2021_11_16_19_12_05.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/valid/public1/2021_11_16_19_12_09.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tfrecords/valid/public2/2021_11_16_19_12_13.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/data_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/logger_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/model_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utils/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lgbm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/afm_estimator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/deepfm_estimator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/deepfm_with_optuna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mmoe_estimator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20wBwNuyB9f1pGurZsnaZRRpIql" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zcd\PycharmProjects\ccf_loan\data\dataset\cleaned" />
+      <recent name="D:\zcd\PycharmProjects\ccf_loan\model" />
+      <recent name="D:\zcd\PycharmProjects\ccf_loan\data_utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zcd\PycharmProjects\ccf_loan\data\dataset\cleaned" />
+      <recent name="D:\zcd\PycharmProjects\ccf_loan\data_utils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a2d097-8762-463d-b967-fd53520e539e" name="Default Changelist" comment="" />
+      <created>1636946007243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636946007243</updated>
+      <workItem from="1636946011604" duration="59065000" />
+      <workItem from="1637058484003" duration="25213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
