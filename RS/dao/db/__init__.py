@@ -1,1 +1,0 @@
-__all__=['rs_mongodb_manager']

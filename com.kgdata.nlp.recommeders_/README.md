@@ -1,1 +1,0 @@
-# This is a project about recommender systems, including some recommender algorithms, calculations and services.
